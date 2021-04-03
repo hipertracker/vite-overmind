@@ -1,6 +1,6 @@
-# Vue 3 + Typescript + Vite
+# Vue 3 + Typescript + Vite + Overmind
 
-This template should help get you started developing with Vue 3 and Typescript in Vite.
+This template should help get you started developing with Vue 3 and Typescript in Vite and Overmind as the UI state library.
 
 ## Recommended IDE Setup
 
