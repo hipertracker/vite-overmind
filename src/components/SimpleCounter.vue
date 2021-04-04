@@ -23,6 +23,7 @@ export default defineComponent({
   setup() {
     const state = useOvermind.state();
     const actions = useOvermind.actions();
+
     return { state, actions };
   },
 });
