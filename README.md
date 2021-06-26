@@ -2,6 +2,8 @@
 
 This template should help get you started developing with [Vue 3](https://v3.vuejs.org/) and [Typescript](https://www.typescriptlang.org/) in [Vite](https://vitejs.dev/) and [Overmind](https://overmindjs.org/) as the UI state library.
 
+### DEPRECATED. This boilerplate uses older Overmind v27. For newer version go to https://github.com/hipertracker/overmind-boilerplate
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur). Make sure to enable `vetur.experimental.templateInterpolationService` in settings!
